@@ -1,0 +1,38 @@
+[
+  {
+    "id": 3,
+    "set_id": 1,
+    "created_by": 1,
+    "email": "advisor@cscfuto.com",
+    "username": "advisor",
+    "name": "Vitalis",
+    "title": "Mr.",
+    "role": "staff",
+    "is_class_advisor": true,
+    "entry_year": 2018,
+    "password": "advisor"
+  },
+  {
+    "id": 4,
+    "created_by": 1,
+    "email": "lecturer1@cscfuto.com",
+    "username": "lecturer",
+    "name": "Theodera Onwuama",
+    "role": "staff",
+    "designation": "lecturer",
+    "entry_year": 2018,
+    "password": "lecturer"
+  },
+  {
+    "id": 5,
+    "created_by": 1,
+    "email": "hod@cscfuto.com",
+    "username": "hod",
+    "name": "Odii",
+    "title": "Mrs.",
+    "role": "staff",
+    "entry_year": 2018,
+    "is_hod": true,
+    "password": "hod"
+  }
+]

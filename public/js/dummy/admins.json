@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "gender": "MALE",
+    "email": "admin@cscfuto.com",
+    "username": "admin",
+    "name": "G. A. Chukwudebe",
+    "role": "admin",
+    "password": "admin",
+    "staff_id": "ADM67890",
+    "rank": "Professor",
+    "title": "Engr. Prof. (Mrs)"
+  }
+]

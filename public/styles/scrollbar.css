@@ -1,0 +1,41 @@
+.v-content-scrolling {
+  width: 100%;
+  height: 100%;
+  overflow-y: scroll;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+/* Custom scrollbar styles */
+.v-content-scrolling::-webkit-scrollbar {
+  display: none; /* Hide default scrollbar */
+}
+
+.v-scrollbar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 16px; /* Width of the scrollbar */
+  height: 100%;
+  background-color: transparent; /* Transparent background */
+}
+
+.v-track {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #f1f1f1; /* Background color of the track */
+  border-radius: 10px;
+}
+
+.v-thumb {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  background-color: #888; /* Color of the thumb */
+  border-radius: 10px;
+  cursor: pointer;
+}
